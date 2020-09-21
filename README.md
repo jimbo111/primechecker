@@ -1,2 +1,2 @@
 ## primechecker
-A simple prime checker
+A simple prime checker/generator
